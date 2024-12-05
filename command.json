@@ -1,0 +1,4 @@
+{
+    "program": "php -S localhost:9000 >> output.123 &",
+    "logpath": "ping.log"
+}
